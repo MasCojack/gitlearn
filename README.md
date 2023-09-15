@@ -1,1 +1,2 @@
-Owner : Agung Kelas : 3A
+Owner : Agung 
+Kelas : 3A
